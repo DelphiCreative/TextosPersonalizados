@@ -1,0 +1,74 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Delphi Creative - Destacando textos'
+  ClientHeight = 469
+  ClientWidth = 768
+  Position = DesktopCenter
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 0
+  object Memo1: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    Lines.Strings = (
+      
+        'Criando textos com NEGRITO ITAL'#205'CO SUBLINHADO RISCADO facebook.c' +
+        'om/DelphiCreative/')
+    StyledSettings = [Family, Style, FontColor]
+    TextSettings.Font.Size = 14.000000000000000000
+    TextSettings.WordWrap = True
+    OnChangeTracking = Memo1ChangeTracking
+    Anchors = [akLeft, akTop, akBottom]
+    Position.X = 8.000000000000000000
+    Position.Y = 120.000000000000000000
+    Size.Width = 289.000000000000000000
+    Size.Height = 338.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Viewport.Width = 285.000000000000000000
+    Viewport.Height = 334.000000000000000000
+  end
+  object Rectangle1: TRectangle
+    Anchors = [akLeft, akTop, akRight, akBottom]
+    Fill.Color = claWhite
+    Position.X = 304.000000000000000000
+    Position.Y = 120.000000000000000000
+    Size.Width = 452.000000000000000000
+    Size.Height = 338.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claWhite
+  end
+  object SpinBox1: TSpinBox
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 2
+    Cursor = crIBeam
+    Min = 10.000000000000000000
+    Value = 10.000000000000000000
+    Position.X = 8.000000000000000000
+    Position.Y = 95.000000000000000000
+    OnChangeTracking = Memo1ChangeTracking
+  end
+  object Rectangle2: TRectangle
+    Anchors = [akLeft, akTop, akRight]
+    Fill.Color = claWhite
+    Position.X = 8.000000000000000000
+    Position.Y = 48.000000000000000000
+    Size.Width = 749.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claNull
+  end
+  object Rectangle3: TRectangle
+    Anchors = [akLeft, akTop, akRight]
+    Fill.Color = claWhite
+    Position.X = 8.000000000000000000
+    Position.Y = 8.000000000000000000
+    Size.Width = 749.000000000000000000
+    Size.Height = 37.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claNull
+  end
+end
