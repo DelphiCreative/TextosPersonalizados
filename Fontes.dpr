@@ -3,7 +3,8 @@ program Fontes;
 uses
   System.StartUpCopy,
   FMX.Forms,
-  uMain in 'uMain.pas' {Form1};
+  uMain in 'uMain.pas' {Form1},
+  FlowTextManager in 'FlowTextManager.pas';
 
 {$R *.res}
 

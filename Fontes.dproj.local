@@ -63,9 +63,11 @@
     <Transaction>2019/12/28 11:36:03.000.355,=C:\Users\DIEGO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2020/02/19 21:57:58.000.268,=C:\Users\DIEGO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2020/02/26 19:17:37.000.839,=C:\Users\DIEGO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/02/26 20:20:04.000.743,C:\MeusProjetos\Youtube\uMain.fmx=C:\Users\DIEGO\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
-    <Transaction>2020/02/26 20:20:04.000.743,C:\MeusProjetos\Youtube\uMain.pas=C:\Users\DIEGO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/02/26 20:20:15.000.870,C:\MeusProjetos\Youtube\Fontes.dproj=C:\Users\DIEGO\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/02/26 20:20:04.000.743,C:\Users\DIEGO\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\MeusProjetos\Youtube\uMain.fmx</Transaction>
+    <Transaction>2020/02/26 20:20:04.000.743,C:\Users\DIEGO\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\MeusProjetos\Youtube\uMain.pas</Transaction>
+    <Transaction>2020/02/26 20:20:15.000.870,C:\Users\DIEGO\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\MeusProjetos\Youtube\Fontes.dproj</Transaction>
+    <Transaction>2025/01/06 08:02:28.000.466,=C:\Git\TextosPersonalizados\Unit1.pas</Transaction>
+    <Transaction>2025/01/06 08:05:20.000.766,C:\Git\TextosPersonalizados\Unit1.pas=C:\Git\TextosPersonalizados\FlowTextManager.pas</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<NoProfile iOSSimulator="iPhone5" Android="" Android64=""/>

@@ -1,0 +1,22 @@
+# Ignorar arquivos pastas de saída em todas as subpastas
+*.~*
+*.dcu
+*.res
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.map
+*.stat
+*.cfg
+*.identcache
+*.local
+*.tvsconfig
+
+# Ignorar pastas de saída em todas as subpastas
+**/Debug/
+**/Release/
+**/__history/
+**/__recovery/
+**/Mobile/Android/
+**/Mobile/Android64/
